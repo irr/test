@@ -1,3 +1,3 @@
 # test
 first line
-second line
+second line.
